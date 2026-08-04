@@ -130,7 +130,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙋 Connect
 
 - **GitHub**: [bhoomijn](https://github.com/bhoomijn)
-- **HackerRank**: [Update with your profile]
 
 ---
 
